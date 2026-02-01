@@ -5,6 +5,7 @@ Este proyecto implementa un modelo probabilístico de transferencia de riqueza p
 ## Contenido del Repositorio
 - `MM_Tarea1.ipynb`: Notebook con el código fuente, simulaciones y gráficas.
 - `datos_finales.csv`: (O el nombre de tu archivo) Resultados de la riqueza final de los agentes.
+- `Reporte.pdf`: Reporte de los resultados obtenidos.
 - `README.md`: Instrucciones y descripción del proyecto.
 
 ## Requisitos
